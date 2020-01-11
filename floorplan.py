@@ -5,17 +5,9 @@ def class room:
         self.sensors = sensors
         self.id = id
 
-    def seeRooms(self):
-        return self.oRooms
+    def seeInfo(self):
+        return [self.oRooms, self.people, self.sensors, self.id]
     
-    def seePeople(self):
-        return self.people
-    
-    def seeSensors(self):
-        return self.sensors
-
-    def roomid(self):
-        return self.id
-
+   
     
 
