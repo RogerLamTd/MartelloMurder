@@ -94,13 +94,7 @@
         "device-id": "ap1-4", 
         "event": "user connected", 
         "guest-id": "Thomas"
-    }, 
-    "1578152270": {
-        "device": "door sensor", 
-        "device-id": "110", 
-        "event": "door closed", 
-        "guest-id": "n/a"
-    }, 
+    },  
     "1578152290": {
         "device": "access point", 
         "device-id": "ap1-2", 
